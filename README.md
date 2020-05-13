@@ -1,11 +1,17 @@
 # Kiganix Brand Assets
 
-## Logo
+## Corporate
 
 | logo-colored | logo-sided-colored | logo-square-colored | logo-circle-colored |
 |:------------:|:------------------:|:-------------------:|:-------------------:|
-| <img src="logo/colored/logo-colored.svg" width="100"/> | <img src="logo/colored/logo-sided-colored.svg" width="100"/> | <img src="logo/colored/logo-square-colored.svg" width="100"/> | <img src="logo/colored/logo-circle-colored.svg" width="100"/> |
-|  |  |  | <img src="logo/colored/logo-circle-colored-with-background.svg" width="100"><br/>with-background |
+| <img src="corporate/colored/logo-colored.svg" width="100"/> | <img src="corporate/colored/logo-sided-colored.svg" width="100"/> | <img src="corporate/colored/logo-square-colored.svg" width="100"/> | <img src="corporate/colored/logo-circle-colored.svg" width="100"/> |
+|  |  |  | <img src="corporate/colored/logo-circle-colored-with-background.svg" width="100"><br/>with-background |
+
+## Interspersed Records
+
+| icon-colored |
+|:------------:|
+| <img src="itsd/colored/icon-colored.svg" width="100"/> |
 
 ## Copyright
 
