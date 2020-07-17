@@ -15,9 +15,9 @@
 
 ## meldgroove
 
-| banner-colored |
-|:--------------:|
-| <img src="mdgv/colored/banner-colored.svg" width="300"/> |
+| banner-colored | icon-colored | combined-colored |
+|:--------------:|:------------:|:----------------:|
+| <img src="mdgv/colored/banner-colored.svg" height="100"/> | <img src="mdgv/colored/icon-colored.svg" width="100"/> | <img src="mdgv/colored/combined-colored.svg" width="100"/> |
 
 ## Copyright
 
