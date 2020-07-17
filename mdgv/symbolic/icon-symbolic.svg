@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+    <defs>
+        <style>
+            .a{fill:none;stroke:#000;stroke-miterlimit:10;stroke-width:20px}
+        </style>
+    </defs>
+    <path d="M780,20V780H20V20H780M800,0H0V800H800V0Z"/>
+    <circle class="a" cx="552" cy="552" r="51"/>
+    <circle class="a" cx="552" cy="552" r="133"/>
+    <circle class="a" cx="552" cy="552" r="215"/>
+    <circle class="a" cx="552" cy="552" r="297"/>
+    <circle class="a" cx="552" cy="552" r="379"/>
+</svg>
